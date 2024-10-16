@@ -19,6 +19,7 @@ public class RecommenderImplementation {
         this.filter = filter;
     }
 
+
     @PostConstruct
     public void postConstruct() {
         //initialization code goes here
